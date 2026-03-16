@@ -52,11 +52,11 @@ $products = $Statement ->fetchAll(PDO :: FETCH_ASSOC);
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <link rel="stylesheet" href="app.css">
-    <title>products_CRUD</title>
+    <title>MobileCity Phone Shope</title>
   </head>
   <body style="background-color: #CCCCFF;">
       <div class="bg"></div>
-    <h1>Products CRUD</h1>
+    <h1>MobileCity Phone Shope</h1>
 
     <p>
       <a href="Create.php"  class="btn-success">create product</a>
